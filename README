@@ -1,16 +1,12 @@
-File/Butler version 0.01
+File/Butler version 3.00
 ========================
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
-
-A README file is required for CPAN modules since CPAN extracts the
-README file from a module distribution so that people browsing the
-archive can use it get an idea of the modules uses. It is usually a
-good idea to provide version information here so that people can
-decide whether fixes for the module are worth downloading.
+File::Butler allows for simplified access to a variety of file
+manipulation functions. File::Butler simplifies such tasks as reading
+the contents of a file into an array, reading the contents of a files
+into a scalar, prepending information to a file, appending information
+to a file, writing a new file, securely deleting a file, and checking
+the number of lines, words, and characters contained in a given file.
 
 INSTALLATION
 
@@ -21,15 +17,9 @@ To install this module type the following:
    make test
    make install
 
-DEPENDENCIES
-
-This module requires these other modules and libraries:
-
-  blah blah blah
-
 COPYRIGHT AND LICENCE
 
-Put the correct copyright and licence information here.
+Copyright(c) 2002, Kurt Kincad. All Rights Reserved.
 
-Copyright (C) 2001 A. U. Thor blah blah blah
-
+This is free software and may be modified/redistributed under the same
+terms as Perl itself.
