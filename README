@@ -1,12 +1,9 @@
-File/Butler version 3.00
+File/Butler version 3.01
 ========================
 
-File::Butler allows for simplified access to a variety of file
-manipulation functions. File::Butler simplifies such tasks as reading
-the contents of a file into an array, reading the contents of a files
-into a scalar, prepending information to a file, appending information
-to a file, writing a new file, securely deleting a file, and checking
-the number of lines, words, and characters contained in a given file.
+File::Butler is intended to simplify the basic file read, write, 
+modify, and/or manipulate sorts of tasks that are commonly needed.
+The usage is straight-forward and detailed in the POD.
 
 INSTALLATION
 
@@ -19,7 +16,8 @@ To install this module type the following:
 
 COPYRIGHT AND LICENCE
 
-Copyright(c) 2002, Kurt Kincad. All Rights Reserved.
+Copyright (C) 2002 Kurt Kincaid. All Rights Reserved.
 
-This is free software and may be modified/redistributed under the same
-terms as Perl itself.
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+

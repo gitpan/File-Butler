@@ -1,13 +1,5 @@
 Revision history for Perl extension File::Butler.
 
-3.00  16-Jan-2002
-        - Overall code clean-up.
-        - Added OO interface.
-        - Modified write(), append(), and prepend() to accept scalar
-          input, instead of restricting input to arrays.
+3.01 - Minor modification release
 
-2.00  10-Jul-2001
-        - after numerous revisions, first public release
-
-1.00  01-Jul-2000
-        - original version, available in limited release
+3.00 - Re-released File::Butler

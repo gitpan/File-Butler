@@ -18,11 +18,11 @@ use vars qw( $VERSION @ISA @EXPORT @EXPORT_OK );
 
 require Exporter;
 
-@ISA       = qw(Exporter AutoLoader);
-@EXPORT    = qw(Butler);
-@EXPORT_OK = qw(Version);
+@ISA       = qw( Exporter );
+@EXPORT    = qw( Butler );
+@EXPORT_OK = qw( Version );
 
-$VERSION = '3.00';
+$VERSION = '3.01';
 
 sub new {
     my $class = shift;
