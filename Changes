@@ -1,5 +1,3 @@
-Revision history for Perl extension File::Butler.
+Revision history for File-Butler
 
-3.01 - Minor modification release
-
-3.00 - Re-released File::Butler
+4.0.0	Significant modifications, including conversion to Moose.

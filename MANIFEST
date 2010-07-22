@@ -1,6 +1,11 @@
-Butler.pm
+Build.PL
 Changes
-Makefile.PL
 MANIFEST
 README
-test.pl
+lib/File/Butler.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
